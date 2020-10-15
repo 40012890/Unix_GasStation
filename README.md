@@ -8,6 +8,6 @@ Gas Station Probelm , similar to sleeping barber
 
 
 
-|Build|
+|CPP-Check|
 |-----|
 |![cppcheck-action](https://github.com/99002442/Unix_GasStation/workflows/cppcheck-action/badge.svg)|
