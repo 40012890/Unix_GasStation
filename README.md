@@ -11,3 +11,11 @@ Gas Station Probelm , similar to sleeping barber
 |CPP-Check|
 |-----|
 |![cppcheck-action](https://github.com/99002442/Unix_GasStation/workflows/cppcheck-action/badge.svg)|
+
+
+|UNIT_TESTING|
+|-----|
+|![UNIT TESTING](https://github.com/99002442/Unix_GasStation/workflows/UNIT%20TESTING/badge.svg)|
+
+|VALGRID|
+|-----|
