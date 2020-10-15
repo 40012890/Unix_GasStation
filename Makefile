@@ -1,4 +1,4 @@
-all: 	run clean
+all: 	run 
 	gcc Gas.c -lpthread -o Gas.o  -w
 
 run:	
