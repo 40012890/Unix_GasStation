@@ -1,7 +1,8 @@
 all: 	run 
-	gcc Gas.c -lpthread -o Gas.o  -w
+	
 
 run:	
+	gcc Gas.c -lpthread -o Gas.o  -w
 	./Gas.o
 	
 clean:
