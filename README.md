@@ -11,7 +11,6 @@ Gas Station Probelm , similar to sleeping barber
 |UNIT_TESTING|
 |-----|
 |![UNIT TESTING](https://github.com/99002442/Unix_GasStation/workflows/UNIT%20TESTING/badge.svg)|
-
 |VALGRID|
 |-----|
-![Valgrind](https://github.com/99002442/Unix_GasStation/workflows/Valgrind/badge.svg)
+|![Valgrind](https://github.com/99002442/Unix_GasStation/workflows/Valgrind/badge.svg)|
