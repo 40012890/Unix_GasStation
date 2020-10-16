@@ -10,7 +10,7 @@ Gas Station Probelm , similar to sleeping barber
 
 |Build|CppCheck|Valgrind|Unit Testing|Codacy|
 |-----|--------|--------|------------|------|
-|![C/C++ CI](https://github.com/99002442/Unix_GastStation/workflows/C/C++%20CI/badge.svg)|![cppcheck-action](https://github.com/99002442/Unix_GastStation/workflows/cppcheck-action/badge.svg)|![Valgrind](https://github.com/99002442/Unix_GastStation/workflows/Valgrind/badge.svg)|![UNIT TESTING](https://github.com/99002442/Unix_GastStation/workflows/UNIT%20TESTING/badge.svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/814ede627a3c474e9d9785b3a6d38efd)](https://www.codacy.com/gh/99002617/Genesis_Mini_Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99002442/Unix_GasStation&amp;utm_campaign=Badge_Grade)|
+|![C/C++ CI](https://github.com/99002442/Unix_GasStation/workflows/C/C++%20CI/badge.svg)|![cppcheck-action](https://github.com/99002442/Unix_GasStation/workflows/cppcheck-action/badge.svg)|![Valgrind](https://github.com/99002442/Unix_GasStation/workflows/Valgrind/badge.svg)|![UNIT TESTING](https://github.com/99002442/Unix_GasStation/workflows/UNIT%20TESTING/badge.svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/814ede627a3c474e9d9785b3a6d38efd)](https://www.codacy.com/gh/99002617/Genesis_Mini_Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99002442/Unix_GasStation&amp;utm_campaign=Badge_Grade)|
 
 
 
