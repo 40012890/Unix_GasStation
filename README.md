@@ -1,6 +1,11 @@
 # Unix_GasStation
 Gas Station Probelm , similar to sleeping barber 
 
+GitHub Actions
+- Build using Make for CI
+- Static code analysis using cppcheck
+- Dynamic Code analysis using Valgrind
+
 
 |Build|  
 |-----|  
