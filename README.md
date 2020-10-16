@@ -1,10 +1,6 @@
 # Unix_GasStation
 Gas Station Probelm , similar to sleeping barber 
 
-GitHub Actions
-- Build using Make for CI
-- Static code analysis using cppcheck
-- Dynamic Code analysis using Valgrind
 
 
 |Build|  
@@ -17,3 +13,9 @@ GitHub Actions
 |VALGRID|
 |![Valgrind](https://github.com/99002442/Unix_GasStation/workflows/Valgrind/badge.svg)|\
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/396eeae2cf00429294c8933917b6b280)](https://www.codacy.com/gh/99002442/Unix_GasStation/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99002442/Unix_GasStation&amp;utm_campaign=Badge_Grade)
+
+
+GitHub Actions
+- Build using Make for CI
+- Static code analysis using cppcheck
+- Dynamic Code analysis using Valgrind
