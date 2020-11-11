@@ -1,24 +1,11 @@
-# CS_Spro
-Client-Server Implementation using Socket Programming  
-Tranfer Files from Server to Clients at one go.
 
-# Steps:
+# Unix_GasStation
 
-1.Create a Push dir in the root while running
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/63842dfecd204d5a957f619d79c09981)](https://app.codacy.com/gh/99002442/Unix_GasStation?utm_source=github.com&utm_medium=referral&utm_content=99002442/Unix_GasStation&utm_campaign=Badge_Grade)
+
+Gas Station Probelm , similar to sleeping barber 
 
 
-2.Once that is done open 2 unique termianls and run 
-
-    Run : gcc Server.cpp -o server 
-    Run : gcc Client.cpp -o client
-    
-    
-3.Once the .out files are generated
-
-    Run : ./server.out
-    Run : ./client.out
-    
-4. Do check the dir created now , the files would be succesfully transfered from Server dir to Client dir.
 
 # PS NUMBER : 99002442
 
